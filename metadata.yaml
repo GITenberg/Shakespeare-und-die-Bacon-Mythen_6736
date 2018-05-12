@@ -1,4 +1,8 @@
 _repo: Shakespeare-und-die-Bacon-Mythen_6736
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fischer, Kuno
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2182
     wikipedia: http://en.wikipedia.org/wiki/Kuno_Fischer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6736#Shakespeare-und-die-Bacon-Mythen
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
